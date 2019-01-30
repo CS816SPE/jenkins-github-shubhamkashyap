@@ -6,5 +6,7 @@ int main()
 {
 	cout << "Hello World !!!";
 
-	cout << "Chnage in program to see if commit works ";
+	int a =5;
+	int b=10;
+	cout << a*b;
 }
